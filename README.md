@@ -1,4 +1,4 @@
-# Sentiment Analysis with LSTM
+# Sentiment Analysis with RNN
 This code performs sentiment analysis on the IMDB movie reviews dataset using LSTM. The dataset contains 50,000 movie reviews, and each review is labeled as positive or negative. The code preprocesses the data by removing HTML tags, punctuation, and numbers, and then tokenizes the sentences. The GloVe embeddings are used to create the feature matrix, and the LSTM model is trained on the preprocessed data.
 
 ## Dependencies
